@@ -17,3 +17,4 @@ Eliminamos la branch con: git branch -d feature_branch
 Y luego hice git push
 
 Como no hice más cambios, entré en la rama main con el comando checkout, para hacer merge y de ahí un git push, dando por finalizado el flujo de git
+Finalmente hice un git pull en mi repo local para actualizar el README
